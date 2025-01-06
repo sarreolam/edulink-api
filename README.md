@@ -1,6 +1,6 @@
 # Edulink Backend API
 
-This repository contains the backend API for the Edulink app, a platform designed to support learning across various subjects. Built with Node.js, the API interacts with a MongoDB database to securely manage and persist user data, including progress and authentication.
+This repository contains the backend API for the Edulink app (https://github.com/sarreolam/edulink-web-app), a platform designed to support learning across various subjects. Built with Node.js, the API interacts with a MongoDB database to securely manage and persist user data, including progress and authentication.
 
 ## 🌟 Features
 - **RESTful Endpoints:** Provides endpoints for user authentication, data management, and progress tracking.
@@ -11,8 +11,6 @@ This repository contains the backend API for the Edulink app, a platform designe
 - **Runtime:** Node.js
 - **Database:** MongoDB
 - **Framework:** Express.js
-- **Authentication:** (e.g., JWT or OAuth2 if applicable)
-- **Other Tools:** (mention any other tools like Mongoose, dotenv, etc.)
 
 ## 🚀 Getting Started
 
