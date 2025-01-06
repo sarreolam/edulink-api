@@ -25,3 +25,8 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/edulink-backend.git
    cd edulink-backend
+
+
+### .env
+- DB_USER= **mongo user**
+- DB_PASS= **mongo pass**
